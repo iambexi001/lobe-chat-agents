@@ -1,0 +1,14 @@
+{
+  "author": "iambexi001",
+  "createdAt": "2026-09-20",
+  "identifier": "bexi-custom-assistant",
+  "meta": {
+    "avatar": "🤖",
+    "title": "Bexi's Custom Assistant",
+    "description": "A helpful assistant that explains things clearly.",
+    "tags": ["helper", "custom", "assistant"],
+    "category": "general"
+  },
+  "config": {
+    "systemRole": "You are a helpful and patient AI assistant that answers questions in plain language."
+  }
